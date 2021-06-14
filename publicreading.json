@@ -1,0 +1,3338 @@
+[
+  {
+    "start": "10/17/20",
+    "title": "Re'eh, רְאֵה",
+    "torahPassage": "Deuteronomy 14:22 - 14:29",
+    "torahVerseTotal": "8",
+    "gospelPassage": "Acts 11:19 - 11:30",
+    "gospelVerseTotal": "12"
+  },
+  {
+    "start": "10/24/20",
+    "title": "Re'eh, רְאֵה",
+    "torahPassage": "Deuteronomy 15:1 - 15:18",
+    "torahVerseTotal": "18",
+    "gospelPassage": "Acts 12:1 - 12:18",
+    "gospelVerseTotal": "18"
+  },
+  {
+    "start": "10/31/20",
+    "title": "Re'eh, רְאֵה",
+    "torahPassage": "Deuteronomy 15:19 - 16:17",
+    "torahVerseTotal": "22",
+    "gospelPassage": "Acts 12:19 - 12:24",
+    "gospelVerseTotal": "6"
+  },
+  {
+    "start": "11/7/20",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 16:18 - 17:13",
+    "torahVerseTotal": "18",
+    "gospelPassage": "Acts 12:25 - 13:3",
+    "gospelVerseTotal": "4"
+  },
+  {
+    "start": "11/14/20",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 17:14 - 17:20",
+    "torahVerseTotal": "7",
+    "gospelPassage": "Acts 13:4 - 13:12",
+    "gospelVerseTotal": "9"
+  },
+  {
+    "start": "11/21/20",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 18:1 - 18:5",
+    "torahVerseTotal": "5",
+    "gospelPassage": "Acts 13:13 - 13:25",
+    "gospelVerseTotal": "13"
+  },
+  {
+    "start": "11/28/20",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 18:6 - 18:13",
+    "torahVerseTotal": "8",
+    "gospelPassage": "Acts 13:26 - 13:37",
+    "gospelVerseTotal": "12"
+  },
+  {
+    "start": "12/5/20",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 18:14 - 19:13",
+    "torahVerseTotal": "22",
+    "gospelPassage": "Acts 13:38 - 13:52",
+    "gospelVerseTotal": "15"
+  },
+  {
+    "start": "12/12/20",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 19:14 - 20:9",
+    "torahVerseTotal": "17",
+    "gospelPassage": "Acts 14:1 - 14:20",
+    "gospelVerseTotal": "20"
+  },
+  {
+    "start": "12/19/20",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 20:10 - 21:9",
+    "torahVerseTotal": "20",
+    "gospelPassage": "Acts 14:21 - 14:28",
+    "gospelVerseTotal": "8"
+  },
+  {
+    "start": "12/26/20",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 21:10 - 21:21",
+    "torahVerseTotal": "12",
+    "gospelPassage": "Acts 15:1 - 15:11",
+    "gospelVerseTotal": "11"
+  },
+  {
+    "start": "1/2/21",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 21:22 - 22:7",
+    "torahVerseTotal": "9",
+    "gospelPassage": "Acts 15:12 - 15:21",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "1/9/21",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 22:8 - 23:7",
+    "torahVerseTotal": "29",
+    "gospelPassage": "Acts 15:22 - 15:41",
+    "gospelVerseTotal": "20"
+  },
+  {
+    "start": "1/16/21",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 23:8 - 23:24",
+    "torahVerseTotal": "17",
+    "gospelPassage": "Acts 16:1 - 16:15",
+    "gospelVerseTotal": "15"
+  },
+  {
+    "start": "1/23/21",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 23:25 - 24:4",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 16:16 - 16:24",
+    "gospelVerseTotal": "9"
+  },
+  {
+    "start": "1/30/21",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 24:5 - 24:13",
+    "torahVerseTotal": "9",
+    "gospelPassage": "Acts 16:25 - 16:40",
+    "gospelVerseTotal": "16"
+  },
+  {
+    "start": "2/6/21",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 24:14 - 25:19",
+    "torahVerseTotal": "28",
+    "gospelPassage": "Acts 17:1 - 17:15",
+    "gospelVerseTotal": "15"
+  },
+  {
+    "start": "2/13/21",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 26:1 - 26:11",
+    "torahVerseTotal": "11",
+    "gospelPassage": "Acts 17:16 - 17:34",
+    "gospelVerseTotal": "19"
+  },
+  {
+    "start": "2/20/21",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 26:12 - 26:15",
+    "torahVerseTotal": "4",
+    "gospelPassage": "Acts 18:1 - 18:17",
+    "gospelVerseTotal": "17"
+  },
+  {
+    "start": "2/27/21",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 26:16 - 26:19",
+    "torahVerseTotal": "4",
+    "gospelPassage": "Acts 18:18 - 18:28",
+    "gospelVerseTotal": "11"
+  },
+  {
+    "start": "3/6/21",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 27:1 - 27:10",
+    "torahVerseTotal": "10",
+    "gospelPassage": "Acts 19:1 - 19:10",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "3/13/21",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 27:11 - 28:6",
+    "torahVerseTotal": "22",
+    "gospelPassage": "Acts 19:11 - 19:22",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "3/20/21",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 28:7 - 28:69",
+    "torahVerseTotal": "63",
+    "gospelPassage": "Acts 19:23 - 19:41",
+    "gospelVerseTotal": "18"
+  },
+  {
+    "start": "3/27/21",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 29:1 - 29:8",
+    "torahVerseTotal": "8",
+    "gospelPassage": "Acts 20:1 - 20:6",
+    "gospelVerseTotal": "6"
+  },
+  {
+    "start": "4/3/21",
+    "title": "Pesach VII",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/10/21",
+    "title": "*Nitzavim, נִצָּבִים",
+    "torahPassage": "Deuteronomy 29:9 - 29:11;Deuteronomy 29:12 - 29:14",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 20:7 - 20:12;Acts 20:13 - 20:21",
+    "gospelVerseTotal": "15"
+  },
+  {
+    "start": "4/17/21",
+    "title": "*Nitzavim, נִצָּבִים",
+    "torahPassage": "Deuteronomy 29:15 - 29:28;Deuteronomy 30:1 - 30:6",
+    "torahVerseTotal": "20",
+    "gospelPassage": "Acts 20:22 - 20:27;Acts 20:28 - 20:31",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "4/24/21",
+    "title": "*Nitzavim, נִצָּבִים",
+    "torahPassage": "Deuteronomy 30:7 - 30:10;Deuteronomy 30:11 - 30:14",
+    "torahVerseTotal": "8",
+    "gospelPassage": "Acts 20:32 - 20:38;Acts 21:1 - 21:6",
+    "gospelVerseTotal": "14"
+  },
+  {
+    "start": "5/1/21",
+    "title": "*Nitzavim, נִצָּבִים",
+    "torahPassage": "Deuteronomy 30:15 - 30:20",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 21:7 - 21:16",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "5/8/21",
+    "title": "Vayelech, וַיֵּלֶךְ",
+    "torahPassage": "Deuteronomy 31:1 - 31:3",
+    "torahVerseTotal": "3",
+    "gospelPassage": "Acts 21:17 - 21:26 ",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "5/15/21",
+    "title": "Vayelech, וַיֵּלֶךְ",
+    "torahPassage": "Deuteronomy 31:4 - 31:6",
+    "torahVerseTotal": "3",
+    "gospelPassage": "Acts 21:27 - 21:36",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "5/22/21",
+    "title": "Vayelech, וַיֵּלֶךְ",
+    "torahPassage": "Deuteronomy 31:7 - 31:9",
+    "torahVerseTotal": "3",
+    "gospelPassage": "Acts 21:37 - 22:2",
+    "gospelVerseTotal": "6"
+  },
+  {
+    "start": "5/29/21",
+    "title": "Vayelech, וַיֵּלֶךְ",
+    "torahPassage": "Deuteronomy 31:10 - 31:13",
+    "torahVerseTotal": "4",
+    "gospelPassage": "Acts 22:3 - 22:21",
+    "gospelVerseTotal": "19"
+  },
+  {
+    "start": "6/5/21",
+    "title": "Vayelech, וַיֵּלֶךְ",
+    "torahPassage": "Deuteronomy 31:14 - 31:19",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 22:22 - 22:29",
+    "gospelVerseTotal": "8"
+  },
+  {
+    "start": "6/12/21",
+    "title": "Vayelech, וַיֵּלֶךְ",
+    "torahPassage": "Deuteronomy 31:20 - 31:24",
+    "torahVerseTotal": "5",
+    "gospelPassage": "Acts 22:30 - 23:11",
+    "gospelVerseTotal": "12"
+  },
+  {
+    "start": "6/19/21",
+    "title": "Vayelech, וַיֵּלֶךְ",
+    "torahPassage": "Deuteronomy 31:25 - 31:30",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 23:12 - 23:22",
+    "gospelVerseTotal": "11"
+  },
+  {
+    "start": "6/26/21",
+    "title": "Haazinu, הַאֲזִינוּ",
+    "torahPassage": "Deuteronomy 32:1 - 32:6",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 23:23 - 23:35",
+    "gospelVerseTotal": "13"
+  },
+  {
+    "start": "7/3/21",
+    "title": "Haazinu, הַאֲזִינוּ",
+    "torahPassage": "Deuteronomy 32:7 - 32:12",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 24:1 - 24:9",
+    "gospelVerseTotal": "9"
+  },
+  {
+    "start": "7/10/21",
+    "title": "Haazinu, הַאֲזִינוּ",
+    "torahPassage": "Deuteronomy 32:13 - 32:18",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 24:10 - 24:27",
+    "gospelVerseTotal": "18"
+  },
+  {
+    "start": "7/17/21",
+    "title": "Haazinu, הַאֲזִינוּ",
+    "torahPassage": "Deuteronomy 32:19 - 32:28",
+    "torahVerseTotal": "10",
+    "gospelPassage": "Acts 25:1 - 25:12",
+    "gospelVerseTotal": "12"
+  },
+  {
+    "start": "7/24/21",
+    "title": "Haazinu, הַאֲזִינוּ",
+    "torahPassage": "Deuteronomy 32:29 - 32:39",
+    "torahVerseTotal": "11",
+    "gospelPassage": "Acts 25:13 - 25:22",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "7/31/21",
+    "title": "Haazinu, הַאֲזִינוּ",
+    "torahPassage": "Deuteronomy 32:40 - 32:43",
+    "torahVerseTotal": "4",
+    "gospelPassage": "Acts 25:23 - 26:11",
+    "gospelVerseTotal": "16"
+  },
+  {
+    "start": "8/7/21",
+    "title": "Haazinu, הַאֲזִינוּ",
+    "torahPassage": "Deuteronomy 32:44 - 32:52",
+    "torahVerseTotal": "9",
+    "gospelPassage": "Acts 26:12 - 26:32",
+    "gospelVerseTotal": "21"
+  },
+  {
+    "start": "8/14/21",
+    "title": "V'Zot HaBerachah, וְזֹאת הַבְּרָכָה",
+    "torahPassage": "Deuteronomy 33:1 - 33:7",
+    "torahVerseTotal": "7",
+    "gospelPassage": "Acts 27:1 - 27:12",
+    "gospelVerseTotal": "12"
+  },
+  {
+    "start": "8/21/21",
+    "title": "V'Zot HaBerachah, וְזֹאת הַבְּרָכָה",
+    "torahPassage": "Deuteronomy 33:8 - 33:12",
+    "torahVerseTotal": "5",
+    "gospelPassage": "Acts 27:13 - 27:26",
+    "gospelVerseTotal": "14"
+  },
+  {
+    "start": "8/28/21",
+    "title": "V'Zot HaBerachah, וְזֹאת הַבְּרָכָה",
+    "torahPassage": "Deuteronomy 33:13 - 33:17",
+    "torahVerseTotal": "5",
+    "gospelPassage": "Acts 27:27 - 27:44",
+    "gospelVerseTotal": "18"
+  },
+  {
+    "start": "9/4/21",
+    "title": "V'Zot HaBerachah, וְזֹאת הַבְּרָכָה",
+    "torahPassage": "Deuteronomy 33:18 - 33:21",
+    "torahVerseTotal": "4",
+    "gospelPassage": "Acts 28:1 - 28:10",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "9/11/21",
+    "title": "V'Zot HaBerachah, וְזֹאת הַבְּרָכָה",
+    "torahPassage": "Deuteronomy 33:22 - 33:26",
+    "torahVerseTotal": "5",
+    "gospelPassage": "Acts 28:11 - 28:16",
+    "gospelVerseTotal": "5"
+  },
+  {
+    "start": "9/18/21",
+    "title": "V'Zot HaBerachah, וְזֹאת הַבְּרָכָה",
+    "torahPassage": "Deuteronomy 33:27 - 34:12",
+    "torahVerseTotal": "15",
+    "gospelPassage": "Acts 28:17 - 28:30",
+    "gospelVerseTotal": "14"
+  },
+  {
+    "start": "9/25/21",
+    "title": "Sukkot VII",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/2/21",
+    "title": "Bereshit, בְּרֵאשִׁית",
+    "torahPassage": "Genesis 1:1 - 2:3",
+    "torahVerseTotal": "34",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/9/21",
+    "title": "Bereshit, בְּרֵאשִׁית",
+    "torahPassage": "Genesis 2:4 - 2:19",
+    "torahVerseTotal": "16",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/16/21",
+    "title": "Bereshit, בְּרֵאשִׁית",
+    "torahPassage": "Genesis 2:20 - 3:21",
+    "torahVerseTotal": "27",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/23/21",
+    "title": "Bereshit, בְּרֵאשִׁית",
+    "torahPassage": "Genesis 3:22 - 4:18",
+    "torahVerseTotal": "21",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/30/21",
+    "title": "Bereshit, בְּרֵאשִׁית",
+    "torahPassage": "Genesis 4:19 - 4:22",
+    "torahVerseTotal": "4",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/6/21",
+    "title": "Bereshit, בְּרֵאשִׁית",
+    "torahPassage": "Genesis 4:23 - 5:24",
+    "torahVerseTotal": "28",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/13/21",
+    "title": "Bereshit, בְּרֵאשִׁית",
+    "torahPassage": "Genesis 5:25 - 6:8",
+    "torahVerseTotal": "16",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/20/21",
+    "title": "Noach, נֹחַ",
+    "torahPassage": "Genesis 6:9 - 6:22",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/27/21",
+    "title": "Noach, נֹחַ",
+    "torahPassage": "Genesis 7:1 - 7:16",
+    "torahVerseTotal": "16",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/4/21",
+    "title": "Noach, נֹחַ",
+    "torahPassage": "Genesis 7:17 - 8:14",
+    "torahVerseTotal": "22",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/11/21",
+    "title": "Noach, נֹחַ",
+    "torahPassage": "Genesis 8:15 - 9:7",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/18/21",
+    "title": "Noach, נֹחַ",
+    "torahPassage": "Genesis 9:8 - 9:17",
+    "torahVerseTotal": "10",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/25/21",
+    "title": "Noach, נֹחַ",
+    "torahPassage": "Genesis 9:18 - 10:32",
+    "torahVerseTotal": "44",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/1/22",
+    "title": "Noach, נֹחַ",
+    "torahPassage": "Genesis 11:1 - 11:32",
+    "torahVerseTotal": "32",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/8/22",
+    "title": "Lech-Lecha, לֶךְ-לְךָ",
+    "torahPassage": "Genesis 12:1 - 12:13",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/15/22",
+    "title": "Lech-Lecha, לֶךְ-לְךָ",
+    "torahPassage": "Genesis 12:14 - 13:4",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/22/22",
+    "title": "Lech-Lecha, לֶךְ-לְךָ",
+    "torahPassage": "Genesis 13:5 - 13:18",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/29/22",
+    "title": "Lech-Lecha, לֶךְ-לְךָ",
+    "torahPassage": "Genesis 14:1 - 14:20",
+    "torahVerseTotal": "20",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/5/22",
+    "title": "Lech-Lecha, לֶךְ-לְךָ",
+    "torahPassage": "Genesis 14:21 - 15:6",
+    "torahVerseTotal": "10",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/12/22",
+    "title": "Lech-Lecha, לֶךְ-לְךָ",
+    "torahPassage": "Genesis 15:7 - 17:6",
+    "torahVerseTotal": "37",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/19/22",
+    "title": "Lech-Lecha, לֶךְ-לְךָ",
+    "torahPassage": "Genesis 17:7 - 17:27",
+    "torahVerseTotal": "21",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/26/22",
+    "title": "Vayeira, וַיֵּרָא",
+    "torahPassage": "Genesis 18:1 - 18:14",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/5/22",
+    "title": "Vayeira, וַיֵּרָא",
+    "torahPassage": "Genesis 18:15 - 18:33",
+    "torahVerseTotal": "19",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/12/22",
+    "title": "Vayeira, וַיֵּרָא",
+    "torahPassage": "Genesis 19:1 - 19:20",
+    "torahVerseTotal": "20",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/19/22",
+    "title": "Vayeira, וַיֵּרָא",
+    "torahPassage": "Genesis 19:21 - 21:4",
+    "torahVerseTotal": "40",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/26/22",
+    "title": "Vayeira, וַיֵּרָא",
+    "torahPassage": "Genesis 21:5 - 21:21",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/2/22",
+    "title": "Vayeira, וַיֵּרָא",
+    "torahPassage": "Genesis 21:22 - 21:34",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/9/22",
+    "title": "Vayeira, וַיֵּרָא",
+    "torahPassage": "Genesis 22:1 - 22:24",
+    "torahVerseTotal": "24",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/16/22",
+    "title": "Pesach I",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/23/22",
+    "title": "Chayei Sarah, חַיֵּי שָׂרָה",
+    "torahPassage": "Genesis 23:1 - 23:16",
+    "torahVerseTotal": "16",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/30/22",
+    "title": "Chayei Sarah, חַיֵּי שָׂרָה",
+    "torahPassage": "Genesis 23:17 - 24:9",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/7/22",
+    "title": "Chayei Sarah, חַיֵּי שָׂרָה",
+    "torahPassage": "Genesis 24:10 - 24:26",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/14/22",
+    "title": "Chayei Sarah, חַיֵּי שָׂרָה",
+    "torahPassage": "Genesis 24:27 - 24:52",
+    "torahVerseTotal": "26",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/21/22",
+    "title": "Chayei Sarah, חַיֵּי שָׂרָה",
+    "torahPassage": "Genesis 24:53 - 24:67",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/28/22",
+    "title": "Chayei Sarah, חַיֵּי שָׂרָה",
+    "torahPassage": "Genesis 25:1 - 25:11",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/4/22",
+    "title": "Chayei Sarah, חַיֵּי שָׂרָה",
+    "torahPassage": "Genesis 25:12 - 25:18",
+    "torahVerseTotal": "7",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/11/22",
+    "title": "Toledot, תּוֹלְדֹת",
+    "torahPassage": "Genesis 25:19 - 26:5",
+    "torahVerseTotal": "21",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/18/22",
+    "title": "Toledot, תּוֹלְדֹת",
+    "torahPassage": "Genesis 26:6 - 26:12",
+    "torahVerseTotal": "7",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/25/22",
+    "title": "Toledot, תּוֹלְדֹת",
+    "torahPassage": "Genesis 26:13 - 26:22",
+    "torahVerseTotal": "10",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/2/22",
+    "title": "Toledot, תּוֹלְדֹת",
+    "torahPassage": "Genesis 26:23 - 26:29",
+    "torahVerseTotal": "7",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/9/22",
+    "title": "Toledot, תּוֹלְדֹת",
+    "torahPassage": "Genesis 26:30 - 27:27",
+    "torahVerseTotal": "33",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/16/22",
+    "title": "Toledot, תּוֹלְדֹת",
+    "torahPassage": "Genesis 27:28 - 28:4",
+    "torahVerseTotal": "23",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/23/22",
+    "title": "Toledot, תּוֹלְדֹת",
+    "torahPassage": "Genesis 28:5 - 28:9",
+    "torahVerseTotal": "5",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/30/22",
+    "title": "Vayetze, וַיֵּצֵא",
+    "torahPassage": "Genesis 28:10 - 28:22",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/6/22",
+    "title": "Vayetze, וַיֵּצֵא",
+    "torahPassage": "Genesis 29:1 - 29:17",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/13/22",
+    "title": "Vayetze, וַיֵּצֵא",
+    "torahPassage": "Genesis 29:18 - 30:13",
+    "torahVerseTotal": "31",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/20/22",
+    "title": "Vayetze, וַיֵּצֵא",
+    "torahPassage": "Genesis 30:14 - 30:27",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/27/22",
+    "title": "Vayetze, וַיֵּצֵא",
+    "torahPassage": "Genesis 30:28 - 31:16",
+    "torahVerseTotal": "32",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/3/22",
+    "title": "Vayetze, וַיֵּצֵא",
+    "torahPassage": "Genesis 31:17 - 31:42",
+    "torahVerseTotal": "26",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/10/22",
+    "title": "Vayetze, וַיֵּצֵא",
+    "torahPassage": "Genesis 31:43 - 32:3",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/17/22",
+    "title": "Vayishlach, וַיִּשְׁלַח",
+    "torahPassage": "Genesis 32:4 - 32:13",
+    "torahVerseTotal": "10",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/24/22",
+    "title": "Vayishlach, וַיִּשְׁלַח",
+    "torahPassage": "Genesis 32:14 - 32:30",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/1/22",
+    "title": "Vayishlach, וַיִּשְׁלַח",
+    "torahPassage": "Genesis 32:31 - 33:5",
+    "torahVerseTotal": "8",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/8/22",
+    "title": "Vayishlach, וַיִּשְׁלַח",
+    "torahPassage": "Genesis 33:6 - 33:20",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/15/22",
+    "title": "Sukkot I",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/22/22",
+    "title": "Vayishlach, וַיִּשְׁלַח",
+    "torahPassage": "Genesis 34:1 - 35:11",
+    "torahVerseTotal": "42",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/29/22",
+    "title": "Vayishlach, וַיִּשְׁלַח",
+    "torahPassage": "Genesis 35:12 - 36:19",
+    "torahVerseTotal": "37",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/5/22",
+    "title": "Vayishlach, וַיִּשְׁלַח",
+    "torahPassage": "Genesis 36:20 - 36:43",
+    "torahVerseTotal": "24",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/12/22",
+    "title": "Vayeshev, וַיֵּשֶׁב",
+    "torahPassage": "Genesis 37:1 - 37:11",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/19/22",
+    "title": "Vayeshev, וַיֵּשֶׁב",
+    "torahPassage": "Genesis 37:12 - 37:22",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/26/22",
+    "title": "Vayeshev, וַיֵּשֶׁב",
+    "torahPassage": "Genesis 37:23 - 37:36",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/3/22",
+    "title": "Vayeshev, וַיֵּשֶׁב",
+    "torahPassage": "Genesis 38:1 - 38:30",
+    "torahVerseTotal": "30",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/10/22",
+    "title": "Vayeshev, וַיֵּשֶׁב",
+    "torahPassage": "Genesis 39:1 - 39:6",
+    "torahVerseTotal": "6",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/17/22",
+    "title": "Vayeshev, וַיֵּשֶׁב",
+    "torahPassage": "Genesis 39:7 - 39:23",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/24/22",
+    "title": "Vayeshev, וַיֵּשֶׁב",
+    "torahPassage": "Genesis 40:1 - 40:23",
+    "torahVerseTotal": "23",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/31/22",
+    "title": "Miketz, מִקֵּץ",
+    "torahPassage": "Genesis 41:1 - 41:14",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/7/23",
+    "title": "Miketz, מִקֵּץ",
+    "torahPassage": "Genesis 41:15 - 41:38",
+    "torahVerseTotal": "24",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/14/23",
+    "title": "Miketz, מִקֵּץ",
+    "torahPassage": "Genesis 41:39 - 41:52",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/21/23",
+    "title": "Miketz, מִקֵּץ",
+    "torahPassage": "Genesis 41:53 - 42:18",
+    "torahVerseTotal": "23",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/28/23",
+    "title": "Miketz, מִקֵּץ",
+    "torahPassage": "Genesis 42:19 - 43:15",
+    "torahVerseTotal": "35",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/4/23",
+    "title": "Miketz, מִקֵּץ",
+    "torahPassage": "Genesis 43:16 - 43:29",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/11/23",
+    "title": "Miketz, מִקֵּץ",
+    "torahPassage": "Genesis 43:30 - 44:17",
+    "torahVerseTotal": "22",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/18/23",
+    "title": "Vayigash, וַיִּגַּשׁ",
+    "torahPassage": "Genesis 44:18 - 44:30",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/25/23",
+    "title": "Vayigash, וַיִּגַּשׁ",
+    "torahPassage": "Genesis 44:31 - 45:7",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/4/23",
+    "title": "Vayigash, וַיִּגַּשׁ",
+    "torahPassage": "Genesis 45:8 - 45:18",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/11/23",
+    "title": "Vayigash, וַיִּגַּשׁ",
+    "torahPassage": "Genesis 45:19 - 45:27",
+    "torahVerseTotal": "9",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/18/23",
+    "title": "Vayigash, וַיִּגַּשׁ",
+    "torahPassage": "Genesis 45:28 - 46:27",
+    "torahVerseTotal": "28",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/25/23",
+    "title": "Vayigash, וַיִּגַּשׁ",
+    "torahPassage": "Genesis 46:28 - 47:10",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/1/23",
+    "title": "Vayigash, וַיִּגַּשׁ",
+    "torahPassage": "Genesis 47:11 - 47:27",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/8/23",
+    "title": "Pesach II",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/15/23",
+    "title": "Vayechi, וַיְחִי",
+    "torahPassage": "Genesis 47:28 - 48:9",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/22/23",
+    "title": "Vayechi, וַיְחִי",
+    "torahPassage": "Genesis 48:10 - 48:16",
+    "torahVerseTotal": "7",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/29/23",
+    "title": "Vayechi, וַיְחִי",
+    "torahPassage": "Genesis 48:17 - 48:22",
+    "torahVerseTotal": "6",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/6/23",
+    "title": "Vayechi, וַיְחִי",
+    "torahPassage": "Genesis 49:1 - 49:18",
+    "torahVerseTotal": "18",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/13/23",
+    "title": "Vayechi, וַיְחִי",
+    "torahPassage": "Genesis 49:19 - 49:26",
+    "torahVerseTotal": "8",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/20/23",
+    "title": "Vayechi, וַיְחִי",
+    "torahPassage": "Genesis 49:27 - 50:20",
+    "torahVerseTotal": "27",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/27/23",
+    "title": "Vayechi, וַיְחִי",
+    "torahPassage": "Genesis 50:21 - 50:26",
+    "torahVerseTotal": "6",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/3/23",
+    "title": "Shemot, שְׁמוֹת",
+    "torahPassage": "Exodus 1:1 - 1:17",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/10/23",
+    "title": "Shemot, שְׁמוֹת",
+    "torahPassage": "Exodus 1:18 - 2:10",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/17/23",
+    "title": "Shemot, שְׁמוֹת",
+    "torahPassage": "Exodus 2:11 - 2:25",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/24/23",
+    "title": "Shemot, שְׁמוֹת",
+    "torahPassage": "Exodus 3:1 - 3:15",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/1/23",
+    "title": "Shemot, שְׁמוֹת",
+    "torahPassage": "Exodus 3:16 - 4:17",
+    "torahVerseTotal": "24",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/8/23",
+    "title": "Shemot, שְׁמוֹת",
+    "torahPassage": "Exodus 4:18 - 4:31",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/15/23",
+    "title": "Shemot, שְׁמוֹת",
+    "torahPassage": "Exodus 5:1 - 6:1",
+    "torahVerseTotal": "24",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/22/23",
+    "title": "Va'eira, וָאֵרָא",
+    "torahPassage": "Exodus 6:2 - 6:13",
+    "torahVerseTotal": "12",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/29/23",
+    "title": "Va'eira, וָאֵרָא",
+    "torahPassage": "Exodus 6:14 - 6:28",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/5/23",
+    "title": "Va'eira, וָאֵרָא",
+    "torahPassage": "Exodus 6:29 - 7:7",
+    "torahVerseTotal": "9",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/12/23",
+    "title": "Va'eira, וָאֵרָא",
+    "torahPassage": "Exodus 7:8 - 8:6",
+    "torahVerseTotal": "28",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/19/23",
+    "title": "Va'eira, וָאֵרָא",
+    "torahPassage": "Exodus 8:7 - 8:18",
+    "torahVerseTotal": "12",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/26/23",
+    "title": "Va'eira, וָאֵרָא",
+    "torahPassage": "Exodus 8:19 - 9:16",
+    "torahVerseTotal": "26",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/2/23",
+    "title": "Va'eira, וָאֵרָא",
+    "torahPassage": "Exodus 9:17 - 9:35",
+    "torahVerseTotal": "19",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/9/23",
+    "title": "Bo, בֹּא",
+    "torahPassage": "Exodus 10:1 - 10:11",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/16/23",
+    "title": "Rosh Hashannah",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/23/23",
+    "title": "Bo, בֹּא",
+    "torahPassage": "Exodus 10:12 - 10:23",
+    "torahVerseTotal": "12",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/30/23",
+    "title": "Sukkot II",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/7/23",
+    "title": "Shmini Atzeret",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/14/23",
+    "title": "Bo, בֹּא",
+    "torahPassage": "Exodus 10:24 - 11:3",
+    "torahVerseTotal": "9",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/21/23",
+    "title": "Bo, בֹּא",
+    "torahPassage": "Exodus 11:4 - 12:20",
+    "torahVerseTotal": "27",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/28/23",
+    "title": "Bo, בֹּא",
+    "torahPassage": "Exodus 12:21 - 12:28",
+    "torahVerseTotal": "8",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/4/23",
+    "title": "Bo, בֹּא",
+    "torahPassage": "Exodus 12:29 - 12:51",
+    "torahVerseTotal": "23",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/11/23",
+    "title": "Bo, בֹּא",
+    "torahPassage": "Exodus 13:1 - 13:16",
+    "torahVerseTotal": "16",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/18/23",
+    "title": "Beshalach, בְּשַׁלַּח",
+    "torahPassage": "Exodus 13:17 - 14:8",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/25/23",
+    "title": "Beshalach, בְּשַׁלַּח",
+    "torahPassage": "Exodus 14:9 - 14:14",
+    "torahVerseTotal": "6",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/2/23",
+    "title": "Beshalach, בְּשַׁלַּח",
+    "torahPassage": "Exodus 14:15 - 14:25",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/9/23",
+    "title": "Beshalach, בְּשַׁלַּח",
+    "torahPassage": "Exodus 14:26 - 15:26",
+    "torahVerseTotal": "32",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/16/23",
+    "title": "Beshalach, בְּשַׁלַּח",
+    "torahPassage": "Exodus 15:27 - 16:10",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/23/23",
+    "title": "Beshalach, בְּשַׁלַּח",
+    "torahPassage": "Exodus 16:11 - 16:36",
+    "torahVerseTotal": "26",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/30/23",
+    "title": "Beshalach, בְּשַׁלַּח",
+    "torahPassage": "Exodus 17:1 - 17:16",
+    "torahVerseTotal": "16",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/6/24",
+    "title": "Yitro, יִתְרוֹ",
+    "torahPassage": "Exodus 18:1 - 18:12",
+    "torahVerseTotal": "12",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/13/24",
+    "title": "Yitro, יִתְרוֹ",
+    "torahPassage": "Exodus 18:13 - 18:23",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/20/24",
+    "title": "Yitro, יִתְרוֹ",
+    "torahPassage": "Exodus 18:24 - 18:27",
+    "torahVerseTotal": "4",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/27/24",
+    "title": "Yitro, יִתְרוֹ",
+    "torahPassage": "Exodus 19:1 - 19:6",
+    "torahVerseTotal": "6",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/3/24",
+    "title": "Yitro, יִתְרוֹ",
+    "torahPassage": "Exodus 19:7 - 19:19",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/10/24",
+    "title": "Yitro, יִתְרוֹ",
+    "torahPassage": "Exodus 19:20 - 20:14",
+    "torahVerseTotal": "20",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/17/24",
+    "title": "Yitro, יִתְרוֹ",
+    "torahPassage": "Exodus 20:15 - 20:23",
+    "torahVerseTotal": "9",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/24/24",
+    "title": "Mishpatim, מִּשְׁפָּטִים",
+    "torahPassage": "Exodus 21:1 - 21:19",
+    "torahVerseTotal": "19",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/2/24",
+    "title": "Mishpatim, מִּשְׁפָּטִים",
+    "torahPassage": "Exodus 21:20 - 22:3",
+    "torahVerseTotal": "21",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/9/24",
+    "title": "Mishpatim, מִּשְׁפָּטִים",
+    "torahPassage": "Exodus 22:4 - 22:26",
+    "torahVerseTotal": "23",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/16/24",
+    "title": "Mishpatim, מִּשְׁפָּטִים",
+    "torahPassage": "Exodus 22:27 - 23:5",
+    "torahVerseTotal": "9",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/23/24",
+    "title": "Mishpatim, מִּשְׁפָּטִים",
+    "torahPassage": "Exodus 23:6 - 23:19",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/30/24",
+    "title": "Mishpatim, מִּשְׁפָּטִים",
+    "torahPassage": "Exodus 23:20 - 24:18",
+    "torahVerseTotal": "32",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/6/24",
+    "title": "Terumah, תְּרוּמָה",
+    "torahPassage": "Exodus 25:1 - 25:16",
+    "torahVerseTotal": "16",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/13/24",
+    "title": "Terumah, תְּרוּמָה",
+    "torahPassage": "Exodus 25:17 - 25:30",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/20/24",
+    "title": "Terumah, תְּרוּמָה",
+    "torahPassage": "Exodus 25:31 - 26:14",
+    "torahVerseTotal": "24",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/27/24",
+    "title": "Pesach III",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/4/24",
+    "title": "Terumah, תְּרוּמָה",
+    "torahPassage": "Exodus 26:15 - 26:30",
+    "torahVerseTotal": "16",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/11/24",
+    "title": "Terumah, תְּרוּמָה",
+    "torahPassage": "Exodus 26:31 - 26:37",
+    "torahVerseTotal": "7",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/18/24",
+    "title": "Terumah, תְּרוּמָה",
+    "torahPassage": "Exodus 27:1 - 27:8",
+    "torahVerseTotal": "8",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/25/24",
+    "title": "Terumah, תְּרוּמָה",
+    "torahPassage": "Exodus 27:9 - 27:19",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/1/24",
+    "title": "Tetzaveh, תְּצַוֶּה",
+    "torahPassage": "Exodus 27:20 - 28:12",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/8/24",
+    "title": "Tetzaveh, תְּצַוֶּה",
+    "torahPassage": "Exodus 28:13 - 28:30",
+    "torahVerseTotal": "18",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/15/24",
+    "title": "Tetzaveh, תְּצַוֶּה",
+    "torahPassage": "Exodus 28:31 - 28:43",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/22/24",
+    "title": "Tetzaveh, תְּצַוֶּה",
+    "torahPassage": "Exodus 29:1 - 29:18",
+    "torahVerseTotal": "18",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/29/24",
+    "title": "Tetzaveh, תְּצַוֶּה",
+    "torahPassage": "Exodus 29:19 - 29:37",
+    "torahVerseTotal": "19",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/6/24",
+    "title": "Tetzaveh, תְּצַוֶּה",
+    "torahPassage": "Exodus 29:38 - 29:46",
+    "torahVerseTotal": "9",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/13/24",
+    "title": "Tetzaveh, תְּצַוֶּה",
+    "torahPassage": "Exodus 30:1 - 30:10",
+    "torahVerseTotal": "10",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/20/24",
+    "title": "Ki Tisa, כִּי תִשָּׂא",
+    "torahPassage": "Exodus 30:11 - 31:17",
+    "torahVerseTotal": "45",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/27/24",
+    "title": "Ki Tisa, כִּי תִשָּׂא",
+    "torahPassage": "Exodus 31:18 - 33:11",
+    "torahVerseTotal": "47",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/3/24",
+    "title": "Ki Tisa, כִּי תִשָּׂא",
+    "torahPassage": "Exodus 33:12 - 34:9",
+    "torahVerseTotal": "21",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/10/24",
+    "title": "Ki Tisa, כִּי תִשָּׂא",
+    "torahPassage": "Exodus 34:10 - 34:26",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/17/24",
+    "title": "Ki Tisa, כִּי תִשָּׂא",
+    "torahPassage": "Exodus 34:27 - 34:35",
+    "torahVerseTotal": "9",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/24/24",
+    "title": "Ki Tisa, כִּי תִשָּׂא",
+    "torahPassage": "Exodus 35:1 - 35:29",
+    "torahVerseTotal": "29",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/31/24",
+    "title": "Ki Tisa, כִּי תִשָּׂא",
+    "torahPassage": "Exodus 35:30 - 36:7",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/7/24",
+    "title": "Vayakhel-Pekudei",
+    "torahPassage": "Exodus 36:8 - 36:38",
+    "torahVerseTotal": "31",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/14/24",
+    "title": "Vayakhel-Pekudei",
+    "torahPassage": "Exodus 37:1 - 37:16",
+    "torahVerseTotal": "16",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/21/24",
+    "title": "Vayakhel-Pekudei",
+    "torahPassage": "Exodus 37:17 - 37:29",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/28/24",
+    "title": "Vayakhel-Pekudei",
+    "torahPassage": "Exodus 38:1 - 39:1",
+    "torahVerseTotal": "32",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/5/24",
+    "title": "Vayakhel-Pekudei",
+    "torahPassage": "Exodus 39:2 - 39:21",
+    "torahVerseTotal": "20",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/12/24",
+    "title": "Yom Kippur",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/19/24",
+    "title": "Sukkot III",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/26/24",
+    "title": "Vayakhel-Pekudei",
+    "torahPassage": "Exodus 39:22 - 39:43",
+    "torahVerseTotal": "22",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/2/24",
+    "title": "Vayakhel-Pekudei",
+    "torahPassage": "Exodus 40:1 - 40:38",
+    "torahVerseTotal": "38",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/9/24",
+    "title": "Vayikra, וַיִּקְרָא",
+    "torahPassage": "Leviticus 1:1 - 1:13",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/16/24",
+    "title": "Vayikra, וַיִּקְרָא",
+    "torahPassage": "Leviticus 1:14 - 2:6",
+    "torahVerseTotal": "10",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/23/24",
+    "title": "Vayikra, וַיִּקְרָא",
+    "torahPassage": "Leviticus 2:7 - 2:16",
+    "torahVerseTotal": "10",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/30/24",
+    "title": "Vayikra, וַיִּקְרָא",
+    "torahPassage": "Leviticus 3:1 - 3:17",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/7/24",
+    "title": "Vayikra, וַיִּקְרָא",
+    "torahPassage": "Leviticus 4:1 - 4:26",
+    "torahVerseTotal": "26",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/14/24",
+    "title": "Vayikra, וַיִּקְרָא",
+    "torahPassage": "Leviticus 4:27 - 5:10",
+    "torahVerseTotal": "19",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/21/24",
+    "title": "Vayikra, וַיִּקְרָא",
+    "torahPassage": "Leviticus 5:11 - 5:26",
+    "torahVerseTotal": "16",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/28/24",
+    "title": "Tzav, צַו",
+    "torahPassage": "Leviticus 6:1 - 6:11",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/4/25",
+    "title": "Tzav, צַו",
+    "torahPassage": "Leviticus 6:12 - 7:10",
+    "torahVerseTotal": "22",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/11/25",
+    "title": "Tzav, צַו",
+    "torahPassage": "Leviticus 7:11 - 7:38",
+    "torahVerseTotal": "28",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/18/25",
+    "title": "Tzav, צַו",
+    "torahPassage": "Leviticus 8:1 - 8:13",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/25/25",
+    "title": "Tzav, צַו",
+    "torahPassage": "Leviticus 8:14 - 8:21",
+    "torahVerseTotal": "8",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/1/25",
+    "title": "Tzav, צַו",
+    "torahPassage": "Leviticus 8:22 - 8:29",
+    "torahVerseTotal": "8",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/8/25",
+    "title": "Tzav, צַו",
+    "torahPassage": "Leviticus 8:30 - 8:36",
+    "torahVerseTotal": "7",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/15/25",
+    "title": "Shemini, שְּׁמִינִי",
+    "torahPassage": "Leviticus 9:1 - 9:16",
+    "torahVerseTotal": "16",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/22/25",
+    "title": "Shemini, שְּׁמִינִי",
+    "torahPassage": "Leviticus 9:17 - 9:23",
+    "torahVerseTotal": "7",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/1/25",
+    "title": "Shemini, שְּׁמִינִי",
+    "torahPassage": "Leviticus 9:24 - 10:11",
+    "torahVerseTotal": "12",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/8/25",
+    "title": "Shemini, שְּׁמִינִי",
+    "torahPassage": "Leviticus 10:12 - 10:15",
+    "torahVerseTotal": "4",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/15/25",
+    "title": "Shemini, שְּׁמִינִי",
+    "torahPassage": "Leviticus 10:16 - 10:20",
+    "torahVerseTotal": "5",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/22/25",
+    "title": "Shemini, שְּׁמִינִי",
+    "torahPassage": "Leviticus 11:1 - 11:32",
+    "torahVerseTotal": "32",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/29/25",
+    "title": "Shemini, שְּׁמִינִי",
+    "torahPassage": "Leviticus 11:33 - 11:47",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/5/25",
+    "title": "Tazria-Metzora",
+    "torahPassage": "Leviticus 12:1 - 13:23",
+    "torahVerseTotal": "31",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/12/25",
+    "title": "Tazria-Metzora",
+    "torahPassage": "Leviticus 13:24 - 13:39",
+    "torahVerseTotal": "16",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/19/25",
+    "title": "Pesach IV",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/26/25",
+    "title": "Tazria-Metzora",
+    "torahPassage": "Leviticus 13:40 - 13:54",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/3/25",
+    "title": "Tazria-Metzora",
+    "torahPassage": "Leviticus 13:55 - 14:20",
+    "torahVerseTotal": "25",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/10/25",
+    "title": "Tazria-Metzora",
+    "torahPassage": "Leviticus 14:21 - 14:32",
+    "torahVerseTotal": "12",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/17/25",
+    "title": "Tazria-Metzora",
+    "torahPassage": "Leviticus 14:33 - 15:15",
+    "torahVerseTotal": "40",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/24/25",
+    "title": "Tazria-Metzora",
+    "torahPassage": "Leviticus 15:16 - 15:33",
+    "torahVerseTotal": "18",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/31/25",
+    "title": "Achrei Mot-Kedoshim",
+    "torahPassage": "Leviticus 16:1 - 16:24",
+    "torahVerseTotal": "24",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/7/25",
+    "title": "Achrei Mot-Kedoshim",
+    "torahPassage": "Leviticus 16:25 - 17:7",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/14/25",
+    "title": "Achrei Mot-Kedoshim",
+    "torahPassage": "Leviticus 17:8 - 18:21",
+    "torahVerseTotal": "30",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/21/25",
+    "title": "Achrei Mot-Kedoshim",
+    "torahPassage": "Leviticus 18:22 - 19:14",
+    "torahVerseTotal": "23",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/28/25",
+    "title": "Achrei Mot-Kedoshim",
+    "torahPassage": "Leviticus 19:15 - 19:32",
+    "torahVerseTotal": "18",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/5/25",
+    "title": "Achrei Mot-Kedoshim",
+    "torahPassage": "Leviticus 19:33 - 20:7",
+    "torahVerseTotal": "12",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/12/25",
+    "title": "Achrei Mot-Kedoshim",
+    "torahPassage": "Leviticus 20:8 - 20:27",
+    "torahVerseTotal": "20",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/19/25",
+    "title": "Emor, אֱמֹר",
+    "torahPassage": "Leviticus 21:1 - 21:15",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/26/25",
+    "title": "Emor, אֱמֹר",
+    "torahPassage": "Leviticus 21:16 - 22:16",
+    "torahVerseTotal": "25",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/2/25",
+    "title": "Emor, אֱמֹר",
+    "torahPassage": "Leviticus 22:17 - 22:33",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/9/25",
+    "title": "Emor, אֱמֹר",
+    "torahPassage": "Leviticus 23:1 - 23:22",
+    "torahVerseTotal": "22",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/16/25",
+    "title": "Emor, אֱמֹר",
+    "torahPassage": "Leviticus 23:23 - 23:32",
+    "torahVerseTotal": "10",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/23/25",
+    "title": "Emor, אֱמֹר",
+    "torahPassage": "Leviticus 23:33 - 23:44",
+    "torahVerseTotal": "12",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/30/25",
+    "title": "Emor, אֱמֹר",
+    "torahPassage": "Leviticus 24:1 - 24:23",
+    "torahVerseTotal": "23",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/6/25",
+    "title": "Behar-Bechukotai",
+    "torahPassage": "Leviticus 25:1 - 25:18",
+    "torahVerseTotal": "18",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/13/25",
+    "title": "Behar-Bechukotai",
+    "torahPassage": "Leviticus 25:19 - 25:28",
+    "torahVerseTotal": "10",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/20/25",
+    "title": "Behar-Bechukotai",
+    "torahPassage": "Leviticus 25:29 - 25:38",
+    "torahVerseTotal": "10",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/27/25",
+    "title": "Behar-Bechukotai",
+    "torahPassage": "Leviticus 25:39 - 26:9",
+    "torahVerseTotal": "26",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/4/25",
+    "title": "Behar-Bechukotai",
+    "torahPassage": "Leviticus 26:10 - 26:46",
+    "torahVerseTotal": "37",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/11/25",
+    "title": "Sukkot IV",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/18/25",
+    "title": "Behar-Bechukotai",
+    "torahPassage": "Leviticus 27:1 - 27:15",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/25/25",
+    "title": "Behar-Bechukotai",
+    "torahPassage": "Leviticus 27:16 - 27:34",
+    "torahVerseTotal": "19",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/1/25",
+    "title": "Bamidbar, בְּמִדְבַּר",
+    "torahPassage": "Numbers 1:1 - 1:19",
+    "torahVerseTotal": "19",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/8/25",
+    "title": "Bamidbar, בְּמִדְבַּר",
+    "torahPassage": "Numbers 1:1 - 1:19",
+    "torahVerseTotal": "19",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/15/25",
+    "title": "Bamidbar, בְּמִדְבַּר",
+    "torahPassage": "Numbers 1:20 - 1:54",
+    "torahVerseTotal": "35",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/22/25",
+    "title": "Bamidbar, בְּמִדְבַּר",
+    "torahPassage": "Numbers 2:1 - 2:34",
+    "torahVerseTotal": "34",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/29/25",
+    "title": "Bamidbar, בְּמִדְבַּר",
+    "torahPassage": "Numbers 3:1 - 3:13",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/6/25",
+    "title": "Bamidbar, בְּמִדְבַּר",
+    "torahPassage": "Numbers 3:14 - 3:39",
+    "torahVerseTotal": "26",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/13/25",
+    "title": "Bamidbar, בְּמִדְבַּר",
+    "torahPassage": "Numbers 3:40 - 3:51",
+    "torahVerseTotal": "12",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/20/25",
+    "title": "Bamidbar, בְּמִדְבַּר",
+    "torahPassage": "Numbers 4:1 - 4:20",
+    "torahVerseTotal": "20",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/27/25",
+    "title": "Naso, נָשֹׂא",
+    "torahPassage": "Numbers 4:21 - 4:37",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/3/26",
+    "title": "Naso, נָשֹׂא",
+    "torahPassage": "Numbers 4:38 - 4:49",
+    "torahVerseTotal": "12",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/10/26",
+    "title": "Naso, נָשֹׂא",
+    "torahPassage": "Numbers 5:1 - 5:10",
+    "torahVerseTotal": "10",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/17/26",
+    "title": "Naso, נָשֹׂא",
+    "torahPassage": "Numbers 5:11 - 6:27",
+    "torahVerseTotal": "48",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/24/26",
+    "title": "Naso, נָשֹׂא",
+    "torahPassage": "Numbers 7:1 - 7:41",
+    "torahVerseTotal": "41",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/31/26",
+    "title": "Naso, נָשֹׂא",
+    "torahPassage": "Numbers 7:42 - 7:71",
+    "torahVerseTotal": "30",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/7/26",
+    "title": "Naso, נָשֹׂא",
+    "torahPassage": "Numbers 7:72 - 7:89",
+    "torahVerseTotal": "18",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/14/26",
+    "title": "Behaalotecha, בְּהַעֲלֹתְךָ",
+    "torahPassage": "Numbers 8:1 - 8:14",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/21/26",
+    "title": "Behaalotecha, בְּהַעֲלֹתְךָ",
+    "torahPassage": "Numbers 8:15 - 8:26",
+    "torahVerseTotal": "12",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/28/26",
+    "title": "Behaalotecha, בְּהַעֲלֹתְךָ",
+    "torahPassage": "Numbers 9:1 - 9:14",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/7/26",
+    "title": "Behaalotecha, בְּהַעֲלֹתְךָ",
+    "torahPassage": "Numbers 9:15 - 10:10",
+    "torahVerseTotal": "19",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/14/26",
+    "title": "Behaalotecha, בְּהַעֲלֹתְךָ",
+    "torahPassage": "Numbers 10:11 - 10:34",
+    "torahVerseTotal": "24",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/21/26",
+    "title": "Behaalotecha, בְּהַעֲלֹתְךָ",
+    "torahPassage": "Numbers 10:35 - 11:29",
+    "torahVerseTotal": "31",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "3/28/26",
+    "title": "Behaalotecha, בְּהַעֲלֹתְךָ",
+    "torahPassage": "Numbers 11:30 - 12:16",
+    "torahVerseTotal": "22",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/4/26",
+    "title": "Pesach V",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/11/26",
+    "title": "Shlach, שְׁלַח-לְךָ",
+    "torahPassage": "Numbers 13:1 - 13:20",
+    "torahVerseTotal": "20",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/18/26",
+    "title": "Shlach, שְׁלַח-לְךָ",
+    "torahPassage": "Numbers 13:21 - 14:7",
+    "torahVerseTotal": "20",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/25/26",
+    "title": "Shlach, שְׁלַח-לְךָ",
+    "torahPassage": "Numbers 14:8 - 14:25",
+    "torahVerseTotal": "18",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/2/26",
+    "title": "Shlach, שְׁלַח-לְךָ",
+    "torahPassage": "Numbers 14:26 - 15:7",
+    "torahVerseTotal": "27",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/9/26",
+    "title": "Shlach, שְׁלַח-לְךָ",
+    "torahPassage": "Numbers 15:8 - 15:16",
+    "torahVerseTotal": "9",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/16/26",
+    "title": "Shlach, שְׁלַח-לְךָ",
+    "torahPassage": "Numbers 15:17 - 15:26",
+    "torahVerseTotal": "10",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/23/26",
+    "title": "Shlach, שְׁלַח-לְךָ",
+    "torahPassage": "Numbers 15:27 - 15:41",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/30/26",
+    "title": "Korach, קֹרַח",
+    "torahPassage": "Numbers 16:1 - 16:13",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/6/26",
+    "title": "Korach, קֹרַח",
+    "torahPassage": "Numbers 16:14 - 16:19",
+    "torahVerseTotal": "6",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/13/26",
+    "title": "Korach, קֹרַח",
+    "torahPassage": "Numbers 16:20 - 17:8",
+    "torahVerseTotal": "24",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/20/26",
+    "title": "Korach, קֹרַח",
+    "torahPassage": "Numbers 17:9 - 17:15",
+    "torahVerseTotal": "7",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "6/27/26",
+    "title": "Korach, קֹרַח",
+    "torahPassage": "Numbers 17:16 - 17:24",
+    "torahVerseTotal": "9",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/4/26",
+    "title": "Korach, קֹרַח",
+    "torahPassage": "Numbers 17:25 - 18:20",
+    "torahVerseTotal": "24",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/11/26",
+    "title": "Korach, קֹרַח",
+    "torahPassage": "Numbers 18:21 - 18:32",
+    "torahVerseTotal": "12",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/18/26",
+    "title": "*Chukat, חֻקַּת",
+    "torahPassage": "Numbers 19:1 - 19:17",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "7/25/26",
+    "title": "*Chukat, חֻקַּת",
+    "torahPassage": "Numbers 19:18 - 20:6",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/1/26",
+    "title": "*Chukat, חֻקַּת",
+    "torahPassage": "Numbers 20:7 - 20:13",
+    "torahVerseTotal": "7",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/8/26",
+    "title": "*Chukat, חֻקַּת",
+    "torahPassage": "Numbers 20:14 - 20:21",
+    "torahVerseTotal": "8",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/15/26",
+    "title": "*Chukat, חֻקַּת",
+    "torahPassage": "Numbers 20:22 - 21:9",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/22/26",
+    "title": "*Chukat, חֻקַּת",
+    "torahPassage": "Numbers 21:10 - 21:20",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "8/29/26",
+    "title": "*Chukat, חֻקַּת",
+    "torahPassage": "Numbers 21:21 - 22:1",
+    "torahVerseTotal": "16",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/5/26",
+    "title": "Balak, בָּלָק",
+    "torahPassage": "Numbers 22:2 - 22:12",
+    "torahVerseTotal": "11",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/12/26",
+    "title": "Rosh Hashana",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/19/26",
+    "title": "Balak, בָּלָק",
+    "torahPassage": "Numbers 22:13 - 22:20",
+    "torahVerseTotal": "8",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "9/26/26",
+    "title": "Sukkot 5",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/3/26",
+    "title": "Shmini Atzeret",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/10/26",
+    "title": "Balak, בָּלָק",
+    "torahPassage": "Numbers 22:21 - 22:38",
+    "torahVerseTotal": "18",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/17/26",
+    "title": "Balak, בָּלָק",
+    "torahPassage": "Numbers 22:39 - 23:12",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/24/26",
+    "title": "Balak, בָּלָק",
+    "torahPassage": "Numbers 23:13 - 23:26",
+    "torahVerseTotal": "14",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/31/26",
+    "title": "Balak, בָּלָק",
+    "torahPassage": "Numbers 23:27 - 24:13",
+    "torahVerseTotal": "17",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/7/26",
+    "title": "Balak, בָּלָק",
+    "torahPassage": "Numbers 24:14 - 25:9",
+    "torahVerseTotal": "21",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/14/26",
+    "title": "Pinchas, פִּינְחָס",
+    "torahPassage": "Numbers 25:10 - 26:4",
+    "torahVerseTotal": "13",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/21/26",
+    "title": "Pinchas, פִּינְחָס",
+    "torahPassage": "Numbers 26:5 - 26:51",
+    "torahVerseTotal": "47",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "11/28/26",
+    "title": "Pinchas, פִּינְחָס",
+    "torahPassage": "Numbers 26:52 - 27:5",
+    "torahVerseTotal": "19",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/5/26",
+    "title": "Pinchas, פִּינְחָס",
+    "torahPassage": "Numbers 27:6 - 27:23",
+    "torahVerseTotal": "18",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/12/26",
+    "title": "Pinchas, פִּינְחָס",
+    "torahPassage": "Numbers 28:1 - 28:15",
+    "torahVerseTotal": "15",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/19/26",
+    "title": "Pinchas, פִּינְחָס",
+    "torahPassage": "Numbers 28:16 - 29:11",
+    "torahVerseTotal": "27",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "12/26/26",
+    "title": "Pinchas, פִּינְחָס",
+    "torahPassage": "Numbers 29:12 - 30:1",
+    "torahVerseTotal": "29",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/2/27",
+    "title": "Matot-Masei",
+    "torahPassage": "Numbers 30:2 - 31:12",
+    "torahVerseTotal": "28",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/9/27",
+    "title": "Matot-Masei",
+    "torahPassage": "Numbers 31:13 - 31:54",
+    "torahVerseTotal": "42",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/16/27",
+    "title": "Matot-Masei",
+    "torahPassage": "Numbers 32:1 - 32:19",
+    "torahVerseTotal": "19",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/23/27",
+    "title": "Matot-Masei",
+    "torahPassage": "Numbers 32:20 - 33:49",
+    "torahVerseTotal": "72",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "1/30/27",
+    "title": "Matot-Masei",
+    "torahPassage": "Numbers 33:50 - 34:15",
+    "torahVerseTotal": "22",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/6/27",
+    "title": "Matot-Masei",
+    "torahPassage": "Numbers 34:16 - 35:8",
+    "torahVerseTotal": "22",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/13/27",
+    "title": "Matot-Masei",
+    "torahPassage": "Numbers 35:9 - 36:13",
+    "torahVerseTotal": "39",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "2/20/27",
+    "title": "Devarim, דְּבָרִים",
+    "torahPassage": "Deuteronomy 1:1 - 1:10",
+    "torahVerseTotal": "10",
+    "gospelPassage": "Acts 1:1 - 1:11",
+    "gospelVerseTotal": "12"
+  },
+  {
+    "start": "2/27/27",
+    "title": "Devarim, דְּבָרִים",
+    "torahPassage": "Deuteronomy 1:11 - 1:21",
+    "torahVerseTotal": "11",
+    "gospelPassage": "Acts 1:12 - 1:26",
+    "gospelVerseTotal": "15"
+  },
+  {
+    "start": "3/6/27",
+    "title": "Devarim, דְּבָרִים",
+    "torahPassage": "Deuteronomy 1:22 - 1:38",
+    "torahVerseTotal": "17",
+    "gospelPassage": "Acts 2:1 - 2:13",
+    "gospelVerseTotal": "14"
+  },
+  {
+    "start": "3/13/27",
+    "title": "Devarim, דְּבָרִים",
+    "torahPassage": "Deuteronomy 1:39 - 2:1",
+    "torahVerseTotal": "9",
+    "gospelPassage": "Acts 2:14 - 2:31",
+    "gospelVerseTotal": "18"
+  },
+  {
+    "start": "3/20/27",
+    "title": "Devarim, דְּבָרִים",
+    "torahPassage": "Deuteronomy 2:2 - 2:30",
+    "torahVerseTotal": "29",
+    "gospelPassage": "Acts 2:32 - 2:41",
+    "gospelVerseTotal": "11"
+  },
+  {
+    "start": "3/27/27",
+    "title": "Devarim, דְּבָרִים",
+    "torahPassage": "Deuteronomy 2:31 - 3:14",
+    "torahVerseTotal": "21",
+    "gospelPassage": "Acts 2:42 - 2:47",
+    "gospelVerseTotal": "6"
+  },
+  {
+    "start": "4/3/27",
+    "title": "Devarim, דְּבָרִים",
+    "torahPassage": "Deuteronomy 3:15 - 3:22",
+    "torahVerseTotal": "8",
+    "gospelPassage": "Acts 3:1 - 3:10",
+    "gospelVerseTotal": "11"
+  },
+  {
+    "start": "4/10/27",
+    "title": "Va'etchanan, וָאֶתְחַנַּן",
+    "torahPassage": "Deuteronomy 3:23 - 4:4",
+    "torahVerseTotal": "11",
+    "gospelPassage": "Acts 3:11 - 3:26",
+    "gospelVerseTotal": "16"
+  },
+  {
+    "start": "4/17/27",
+    "title": "Va'etchanan, וָאֶתְחַנַּן",
+    "torahPassage": "Deuteronomy 4:5 - 4:40",
+    "torahVerseTotal": "36",
+    "gospelPassage": "Acts 4:1 - 4:12",
+    "gospelVerseTotal": "13"
+  },
+  {
+    "start": "4/24/27",
+    "title": "Pesach VI",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "5/1/27",
+    "title": "Va'etchanan, וָאֶתְחַנַּן",
+    "torahPassage": "Deuteronomy 4:41 - 4:49",
+    "torahVerseTotal": "9",
+    "gospelPassage": "Acts 4:13 - 4:22",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "5/8/27",
+    "title": "Va'etchanan, וָאֶתְחַנַּן",
+    "torahPassage": "Deuteronomy 5:1 - 5:18",
+    "torahVerseTotal": "18",
+    "gospelPassage": "Acts 4:23 - 4:31",
+    "gospelVerseTotal": "9"
+  },
+  {
+    "start": "5/15/27",
+    "title": "Va'etchanan, וָאֶתְחַנַּן",
+    "torahPassage": "Deuteronomy 5:19 - 6:3",
+    "torahVerseTotal": "15",
+    "gospelPassage": "Acts 4:32 - 4:37",
+    "gospelVerseTotal": "6"
+  },
+  {
+    "start": "5/22/27",
+    "title": "Va'etchanan, וָאֶתְחַנַּן",
+    "torahPassage": "Deuteronomy 6:4 - 6:25",
+    "torahVerseTotal": "22",
+    "gospelPassage": "Acts 5:1 - 5:11",
+    "gospelVerseTotal": "11"
+  },
+  {
+    "start": "5/29/27",
+    "title": "Va'etchanan, וָאֶתְחַנַּן",
+    "torahPassage": "Deuteronomy 7:1 - 7:11",
+    "torahVerseTotal": "11",
+    "gospelPassage": "Acts 5:12 - 5:32",
+    "gospelVerseTotal": "21"
+  },
+  {
+    "start": "6/5/27",
+    "title": "Eikev, עֵקֶב",
+    "torahPassage": "Deuteronomy 7:12 - 8:10",
+    "torahVerseTotal": "25",
+    "gospelPassage": "Acts 5:33 - 5:42",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "6/12/27",
+    "title": "Eikev, עֵקֶב",
+    "torahPassage": "Deuteronomy 8:11 - 9:3",
+    "torahVerseTotal": "13",
+    "gospelPassage": "Acts 6:1 - 6:15",
+    "gospelVerseTotal": "16"
+  },
+  {
+    "start": "6/19/27",
+    "title": "Eikev, עֵקֶב",
+    "torahPassage": "Deuteronomy 9:4 - 9:29",
+    "torahVerseTotal": "26",
+    "gospelPassage": "Acts 7:1 - 7:7",
+    "gospelVerseTotal": "9"
+  },
+  {
+    "start": "6/26/27",
+    "title": "Eikev, עֵקֶב",
+    "torahPassage": "Deuteronomy 10:1 - 10:11",
+    "torahVerseTotal": "11",
+    "gospelPassage": "Acts 7:8 - 7:16",
+    "gospelVerseTotal": "9"
+  },
+  {
+    "start": "7/3/27",
+    "title": "Eikev, עֵקֶב",
+    "torahPassage": "Deuteronomy 10:12 - 11:9",
+    "torahVerseTotal": "20",
+    "gospelPassage": "Acts 7:17 - 7:34",
+    "gospelVerseTotal": "18"
+  },
+  {
+    "start": "7/10/27",
+    "title": "Eikev, עֵקֶב",
+    "torahPassage": "Deuteronomy 11:10 - 11:21",
+    "torahVerseTotal": "12",
+    "gospelPassage": "Acts 7:35 - 7:43",
+    "gospelVerseTotal": "9"
+  },
+  {
+    "start": "7/17/27",
+    "title": "Eikev, עֵקֶב",
+    "torahPassage": "Deuteronomy 11:22 - 11:25",
+    "torahVerseTotal": "4",
+    "gospelPassage": "Acts 7:44 - 7:53",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "7/24/27",
+    "title": "Re'eh, רְאֵה",
+    "torahPassage": "Deuteronomy 11:26 - 12:10",
+    "torahVerseTotal": "17",
+    "gospelPassage": "Acts 7:54 - 7:60",
+    "gospelVerseTotal": "7"
+  },
+  {
+    "start": "7/31/27",
+    "title": "Re'eh, רְאֵה",
+    "torahPassage": "Deuteronomy 12:11 - 12:28",
+    "torahVerseTotal": "18",
+    "gospelPassage": "Acts 8:1 - 8:8",
+    "gospelVerseTotal": "8"
+  },
+  {
+    "start": "8/7/27",
+    "title": "Re'eh, רְאֵה",
+    "torahPassage": "Deuteronomy 12:29 - 13:19",
+    "torahVerseTotal": "22",
+    "gospelPassage": "Acts 8:9 - 8:25",
+    "gospelVerseTotal": "17"
+  },
+  {
+    "start": "8/14/27",
+    "title": "Re'eh, רְאֵה",
+    "torahPassage": "Deuteronomy 14:1 - 14:21",
+    "torahVerseTotal": "21",
+    "gospelPassage": "Acts 8:26 - 8:40",
+    "gospelVerseTotal": "15"
+  },
+  {
+    "start": "8/21/27",
+    "title": "Re'eh, רְאֵה",
+    "torahPassage": "Deuteronomy 14:22 - 14:29",
+    "torahVerseTotal": "8",
+    "gospelPassage": "Acts 9:1 - 9:19",
+    "gospelVerseTotal": "19"
+  },
+  {
+    "start": "8/28/27",
+    "title": "Re'eh, רְאֵה",
+    "torahPassage": "Deuteronomy 15:1 - 15:18",
+    "torahVerseTotal": "18",
+    "gospelPassage": "Acts 9:20 - 9:31",
+    "gospelVerseTotal": "12"
+  },
+  {
+    "start": "9/4/27",
+    "title": "Re'eh, רְאֵה",
+    "torahPassage": "Deuteronomy 15:19 - 16:17",
+    "torahVerseTotal": "22",
+    "gospelPassage": "Acts 9:32 - 9:43",
+    "gospelVerseTotal": "12"
+  },
+  {
+    "start": "9/11/27",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 16:18 - 17:13",
+    "torahVerseTotal": "18",
+    "gospelPassage": "Acts 10:1 - 10:8",
+    "gospelVerseTotal": "8"
+  },
+  {
+    "start": "9/18/27",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 17:14 - 17:20",
+    "torahVerseTotal": "7",
+    "gospelPassage": "Acts 10:9 - 10:23",
+    "gospelVerseTotal": "15"
+  },
+  {
+    "start": "9/25/27",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 18:1 - 18:5",
+    "torahVerseTotal": "5",
+    "gospelPassage": "Acts 10:24 - 10:34",
+    "gospelVerseTotal": "11"
+  },
+  {
+    "start": "10/2/27",
+    "title": "Rosh Hashana",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/9/27",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 18:6 - 18:13",
+    "torahVerseTotal": "8",
+    "gospelPassage": "Acts 10:35 - 10:48",
+    "gospelVerseTotal": "14"
+  },
+  {
+    "start": "10/16/27",
+    "title": "Sukkot 6",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/23/27",
+    "title": "Shmini Atzeret",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/30/27",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 18:14 - 19:13",
+    "torahVerseTotal": "22",
+    "gospelPassage": "Acts 11:1 - 11:18",
+    "gospelVerseTotal": "18"
+  },
+  {
+    "start": "11/6/27",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 19:14 - 20:9",
+    "torahVerseTotal": "17",
+    "gospelPassage": "Acts 11:19 - 11:30",
+    "gospelVerseTotal": "12"
+  },
+  {
+    "start": "11/13/27",
+    "title": "Shoftim, שֹׁפְטִים",
+    "torahPassage": "Deuteronomy 20:10 - 21:9",
+    "torahVerseTotal": "20",
+    "gospelPassage": "Acts 12:1 - 12:18",
+    "gospelVerseTotal": "18"
+  },
+  {
+    "start": "11/20/27",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 21:10 - 21:21",
+    "torahVerseTotal": "12",
+    "gospelPassage": "Acts 12:19 - 12:24",
+    "gospelVerseTotal": "6"
+  },
+  {
+    "start": "11/27/27",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 21:22 - 22:7",
+    "torahVerseTotal": "9",
+    "gospelPassage": "Acts 12:25 - 13:3",
+    "gospelVerseTotal": "4"
+  },
+  {
+    "start": "12/4/27",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 22:8 - 23:7",
+    "torahVerseTotal": "29",
+    "gospelPassage": "Acts 13:4 - 13:12",
+    "gospelVerseTotal": "9"
+  },
+  {
+    "start": "12/11/27",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 23:8 - 23:24",
+    "torahVerseTotal": "17",
+    "gospelPassage": "Acts 13:13 - 13:25",
+    "gospelVerseTotal": "13"
+  },
+  {
+    "start": "12/18/27",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 23:25 - 24:4",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 13:26 - 13:37",
+    "gospelVerseTotal": "12"
+  },
+  {
+    "start": "12/25/27",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 24:5 - 24:13",
+    "torahVerseTotal": "9",
+    "gospelPassage": "Acts 13:38 - 13:52",
+    "gospelVerseTotal": "15"
+  },
+  {
+    "start": "1/1/28",
+    "title": "Ki Teitzei, כִּי-תֵצֵא",
+    "torahPassage": "Deuteronomy 24:14 - 25:19",
+    "torahVerseTotal": "28",
+    "gospelPassage": "Acts 14:1 - 14:20",
+    "gospelVerseTotal": "20"
+  },
+  {
+    "start": "1/8/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 26:1 - 26:11",
+    "torahVerseTotal": "11",
+    "gospelPassage": "Acts 14:21 - 14:28",
+    "gospelVerseTotal": "8"
+  },
+  {
+    "start": "1/15/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 26:12 - 26:15",
+    "torahVerseTotal": "4",
+    "gospelPassage": "Acts 15:1 - 15:11",
+    "gospelVerseTotal": "11"
+  },
+  {
+    "start": "1/22/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 26:16 - 26:19",
+    "torahVerseTotal": "4",
+    "gospelPassage": "Acts 15:12 - 15:21",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "1/29/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 27:1 - 27:10",
+    "torahVerseTotal": "10",
+    "gospelPassage": "Acts 15:22 - 15:41",
+    "gospelVerseTotal": "20"
+  },
+  {
+    "start": "2/5/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 27:11 - 28:6",
+    "torahVerseTotal": "22",
+    "gospelPassage": "Acts 16:1 - 16:15",
+    "gospelVerseTotal": "15"
+  },
+  {
+    "start": "2/12/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 28:7 - 28:14",
+    "torahVerseTotal": "8",
+    "gospelPassage": "Acts 16:16 - 16:24",
+    "gospelVerseTotal": "9"
+  },
+  {
+    "start": "2/19/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 28:15 - 28:19",
+    "torahVerseTotal": "5",
+    "gospelPassage": "Acts 16:25 - 16:40",
+    "gospelVerseTotal": "16"
+  },
+  {
+    "start": "2/26/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 28:20 - 28:26",
+    "torahVerseTotal": "7",
+    "gospelPassage": "Acts 17:1 - 17:15",
+    "gospelVerseTotal": "15"
+  },
+  {
+    "start": "3/4/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 28:27 - 28:37",
+    "torahVerseTotal": "11",
+    "gospelPassage": "Acts 17:16 - 17:34",
+    "gospelVerseTotal": "19"
+  },
+  {
+    "start": "3/11/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 28:38 - 28:44",
+    "torahVerseTotal": "7",
+    "gospelPassage": "Acts 18:1 - 18:17",
+    "gospelVerseTotal": "17"
+  },
+  {
+    "start": "3/18/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 28:45 - 28:52",
+    "torahVerseTotal": "8",
+    "gospelPassage": "Acts 18:18 - 18:28",
+    "gospelVerseTotal": "11"
+  },
+  {
+    "start": "3/25/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 28:53 - 28:57",
+    "torahVerseTotal": "5",
+    "gospelPassage": "Acts 19:1 - 19:10",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "4/1/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 28:58 - 28:63",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 19:11 - 19:22",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "4/8/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 28:64 - 28:68",
+    "torahVerseTotal": "5",
+    "gospelPassage": "Acts 19:23 - 19:41",
+    "gospelVerseTotal": "18"
+  },
+  {
+    "start": "4/15/28",
+    "title": "Pesach VII",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "4/22/28",
+    "title": "Ki Tavo, כִּי-תָבוֹא",
+    "torahPassage": "Deuteronomy 29:1 - 29:8",
+    "torahVerseTotal": "8",
+    "gospelPassage": "Acts 20:1 - 20:6",
+    "gospelVerseTotal": "6"
+  },
+  {
+    "start": "4/29/28",
+    "title": "*Nitzavim, נִצָּבִים",
+    "torahPassage": "Deuteronomy 29:9 - 29:11;Deuteronomy 29:12 - 29:14",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 20:7 - 20:12;Acts 20:13 - 20:21",
+    "gospelVerseTotal": "15"
+  },
+  {
+    "start": "5/6/28",
+    "title": "*Nitzavim, נִצָּבִים",
+    "torahPassage": "Deuteronomy 29:15 - 29:28",
+    "torahVerseTotal": "14",
+    "gospelPassage": "Acts 20:22 - 20:27",
+    "gospelVerseTotal": "6"
+  },
+  {
+    "start": "5/13/28",
+    "title": "*Nitzavim, נִצָּבִים",
+    "torahPassage": "Deuteronomy 30:1 - 30:6",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 20:28 - 20:31",
+    "gospelVerseTotal": "4"
+  },
+  {
+    "start": "5/20/28",
+    "title": "*Nitzavim, נִצָּבִים",
+    "torahPassage": "Deuteronomy 30:7 - 30:10;Deuteronomy 30:11 - 30:14",
+    "torahVerseTotal": "8",
+    "gospelPassage": "Acts 20:32 - 20:38;Acts 21:1 - 21:6",
+    "gospelVerseTotal": "14"
+  },
+  {
+    "start": "5/27/28",
+    "title": "*Nitzavim, נִצָּבִים",
+    "torahPassage": "Deuteronomy 30:15 - 30:20",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 21:7 - 21:16",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "6/3/28",
+    "title": "*Nitzavim, נִצָּבִים",
+    "torahPassage": "Deuteronomy 31:1 - 31:3;Deuteronomy 31:4 - 31:6",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 21:17 - 21:26;Acts 21:27 - 21:36",
+    "gospelVerseTotal": "20"
+  },
+  {
+    "start": "6/10/28",
+    "title": "Vayelech, וַיֵּלֶךְ",
+    "torahPassage": "Deuteronomy 31:7 - 31:9;Deuteronomy 31:10 - 31:13",
+    "torahVerseTotal": "7",
+    "gospelPassage": "Acts 21:37 - 22:2;Acts 22:3 - 22:21",
+    "gospelVerseTotal": "25"
+  },
+  {
+    "start": "6/17/28",
+    "title": "Vayelech, וַיֵּלֶךְ",
+    "torahPassage": "Deuteronomy 31:14 - 31:19",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 22:22 - 22:29",
+    "gospelVerseTotal": "8"
+  },
+  {
+    "start": "6/24/28",
+    "title": "Vayelech, וַיֵּלֶךְ",
+    "torahPassage": "Deuteronomy 31:20 - 31:24",
+    "torahVerseTotal": "5",
+    "gospelPassage": "Acts 22:30 - 23:11",
+    "gospelVerseTotal": "12"
+  },
+  {
+    "start": "7/1/28",
+    "title": "Vayelech, וַיֵּלֶךְ",
+    "torahPassage": "Deuteronomy 31:25 - 31:30",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 23:12 - 23:22",
+    "gospelVerseTotal": "11"
+  },
+  {
+    "start": "7/8/28",
+    "title": "Vayelech, וַיֵּלֶךְ",
+    "torahPassage": "Deuteronomy 32:1 - 32:6",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 23:23 - 23:35",
+    "gospelVerseTotal": "13"
+  },
+  {
+    "start": "7/15/28",
+    "title": "Haazinu, הַאֲזִינוּ",
+    "torahPassage": "Deuteronomy 32:7 - 32:12",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 24:1 - 24:9",
+    "gospelVerseTotal": "9"
+  },
+  {
+    "start": "7/22/28",
+    "title": "Haazinu, הַאֲזִינוּ",
+    "torahPassage": "Deuteronomy 32:13 - 32:18",
+    "torahVerseTotal": "6",
+    "gospelPassage": "Acts 24:10 - 24:27",
+    "gospelVerseTotal": "18"
+  },
+  {
+    "start": "7/29/28",
+    "title": "Haazinu, הַאֲזִינוּ",
+    "torahPassage": "Deuteronomy 32:19 - 32:28",
+    "torahVerseTotal": "10",
+    "gospelPassage": "Acts 25:1 - 25:12",
+    "gospelVerseTotal": "12"
+  },
+  {
+    "start": "8/5/28",
+    "title": "Haazinu, הַאֲזִינוּ",
+    "torahPassage": "Deuteronomy 32:29 - 32:39",
+    "torahVerseTotal": "11",
+    "gospelPassage": "Acts 25:13 - 25:22",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "8/12/28",
+    "title": "Haazinu, הַאֲזִינוּ",
+    "torahPassage": "Deuteronomy 32:40 - 32:43",
+    "torahVerseTotal": "4",
+    "gospelPassage": "Acts 25:23 - 26:11",
+    "gospelVerseTotal": "16"
+  },
+  {
+    "start": "8/19/28",
+    "title": "Haazinu, הַאֲזִינוּ",
+    "torahPassage": "Deuteronomy 32:44 - 32:52",
+    "torahVerseTotal": "9",
+    "gospelPassage": "Acts 26:12 - 26:32",
+    "gospelVerseTotal": "21"
+  },
+  {
+    "start": "8/26/28",
+    "title": "Simchat Torah",
+    "torahPassage": "Deuteronomy 33:1 - 33:7",
+    "torahVerseTotal": "7",
+    "gospelPassage": "Acts 27:1 - 27:12",
+    "gospelVerseTotal": "12"
+  },
+  {
+    "start": "9/2/28",
+    "title": "Simchat Torah",
+    "torahPassage": "Deuteronomy 33:8 - 33:12",
+    "torahVerseTotal": "5",
+    "gospelPassage": "Acts 27:13 - 27:26",
+    "gospelVerseTotal": "14"
+  },
+  {
+    "start": "9/9/28",
+    "title": "Simchat Torah",
+    "torahPassage": "Deuteronomy 33:13 - 33:17",
+    "torahVerseTotal": "5",
+    "gospelPassage": "Acts 27:27 - 27:44",
+    "gospelVerseTotal": "18"
+  },
+  {
+    "start": "9/16/28",
+    "title": "Simchat Torah",
+    "torahPassage": "Deuteronomy 33:18 - 33:21",
+    "torahVerseTotal": "4",
+    "gospelPassage": "Acts 28:1 - 28:10",
+    "gospelVerseTotal": "10"
+  },
+  {
+    "start": "9/23/28",
+    "title": "Simchat Torah",
+    "torahPassage": "Deuteronomy 33:22 - 33:26",
+    "torahVerseTotal": "5",
+    "gospelPassage": "Acts 28:11 - 28:16",
+    "gospelVerseTotal": "5"
+  },
+  {
+    "start": "9/30/28",
+    "title": "Yom Kippur",
+    "torahPassage": "?",
+    "torahVerseTotal": "?",
+    "gospelPassage": "?",
+    "gospelVerseTotal": "?"
+  },
+  {
+    "start": "10/7/28",
+    "title": "Sukkot VII;Simchat Torah",
+    "torahPassage": "Deuteronomy 33:27 - 34:12",
+    "torahVerseTotal": "15",
+    "gospelPassage": "Acts 28:17 - 28:30",
+    "gospelVerseTotal": "14"
+  }
+]
