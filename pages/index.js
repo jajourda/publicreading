@@ -104,7 +104,11 @@ export default function Home(props, formatted) {
               } else {
                 return (
                   <li key={item.start}>
-                    <p>{item.start.toString()}</p>
+                    <small>{format(item.start, "EEEE MMMM do, yyyy ")}</small>
+                    <br />
+                    <em>torah: {item.torahPassage}</em>
+                    <br />
+                    <em>gospel: {item.gospelPassage}</em>
                   </li>
                 );
               }
