@@ -5,6 +5,7 @@ import { formatISO, isPast } from "date-fns";
 import { nextSaturday } from "date-fns";
 import { getISODay, addDays } from "date-fns";
 import { isSameDay } from "date-fns";
+import { format } from "date-fns";
 
 // import { formatISO } from "date-fns";
 
@@ -59,6 +60,7 @@ export default function Home(props, formatted) {
 
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
         <h1 className="text-6xl font-bold">Public Reading</h1>
+        <br />
         <ul>
           {formatted.map((item, i) => {
             if (!isPast(item.start)) {
@@ -67,14 +69,36 @@ export default function Home(props, formatted) {
               if (isSameDay(item.start, sat)) {
                 return (
                   <li key={item.start}>
-                    <h1 className="text-6xl font-bold">
-                      {item.start.toString()}
-                    </h1>
-                    <h2>
-                      <strong>TORAH:</strong>
-
-                      {item.torahPassage}
-                    </h2>
+                    <div className="flex flex-col items-center justify-center w-full">
+                      <div class="max-w-sm rounded material-card bg-white">
+                        <div class="px-6 py-4">
+                          <div class="font-bold text-3xl tracking-wide">
+                            <h2 className="text-2xl font-bold">
+                              {format(item.start, "EEEE MMMM do, yyyy ")}
+                            </h2>
+                          </div>
+                        </div>
+                        <img
+                          class="w-full rounded-t"
+                          src="data:image/svg+xml,%3Csvg%20width%3D%22344%22%20height%3D%22194%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%3E%3Cdefs%3E%3Cpath%20id%3D%22a%22%20d%3D%22M-1%200h344v194H-1z%22%2F%3E%3C%2Fdefs%3E%3Cg%20transform%3D%22translate(1)%22%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Cmask%20id%3D%22b%22%20fill%3D%22%23fff%22%3E%3Cuse%20xlink%3Ahref%3D%22%23a%22%2F%3E%3C%2Fmask%3E%3Cuse%20fill%3D%22%23BDBDBD%22%20xlink%3Ahref%3D%22%23a%22%2F%3E%3Cg%20mask%3D%22url(%23b)%22%3E%3Cpath%20d%3D%22M173.65%2069.238L198.138%2027%20248%20112.878h-49.3c.008.348.011.697.011%201.046%200%2028.915-23.44%2052.356-52.355%2052.356C117.44%20166.28%2094%20142.84%2094%20113.924c0-28.915%2023.44-52.355%2052.356-52.355%2010%200%2019.347%202.804%2027.294%207.669zm0%200l-25.3%2043.64h50.35c-.361-18.478-10.296-34.61-25.05-43.64z%22%20fill%3D%22%23757575%22%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E"
+                        />
+                        <div class="px-6 py-4">
+                          <div class="font-bold text-3xl tracking-wide">
+                            <small className="text-sm">TORAH:</small>
+                            <br />
+                            {item.torahPassage}
+                          </div>
+                          <div class="text-gray-500 text-sm mb-3">
+                            {item.title}
+                          </div>
+                          <div class="font-bold text-3xl tracking-wide">
+                            <small className="text-sm">GOSPEL:</small>
+                            <br />
+                            {item.gospelPassage}
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </li>
                 );
               } else {
@@ -87,61 +111,6 @@ export default function Home(props, formatted) {
             }
           })}
         </ul>
-        <h1 className="text-6xl font-bold">
-          Welcome to{" "}
-          <a className="text-blue-600" href="https://nextjs.org">
-            Next.js!
-          </a>
-        </h1>
-
-        <p className="mt-3 text-2xl">
-          Get started by editing{" "}
-          <code className="p-3 font-mono text-lg bg-gray-100 rounded-md">
-            pages/index.js
-          </code>
-        </p>
-
-        <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">
-          <a
-            href="https://nextjs.org/docs"
-            className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600"
-          >
-            <h3 className="text-2xl font-bold">Documentation &rarr;</h3>
-            <p className="mt-4 text-xl">
-              Find in-depth information about Next.js features and API.
-            </p>
-          </a>
-
-          <a
-            href="https://nextjs.org/learn"
-            className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600"
-          >
-            <h3 className="text-2xl font-bold">Learn &rarr;</h3>
-            <p className="mt-4 text-xl">
-              Learn about Next.js in an interactive course with quizzes!
-            </p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600"
-          >
-            <h3 className="text-2xl font-bold">Examples &rarr;</h3>
-            <p className="mt-4 text-xl">
-              Discover and deploy boilerplate example Next.js projects.
-            </p>
-          </a>
-
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600"
-          >
-            <h3 className="text-2xl font-bold">Deploy &rarr;</h3>
-            <p className="mt-4 text-xl">
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
-        </div>
       </main>
 
       <footer className="flex items-center justify-center w-full h-24 border-t">
