@@ -49,6 +49,7 @@ export default function Home(props, formatted) {
   console.log(getClosestDayOfNextWeek("Sat"));
   let sat = new Date(getClosestDayOfNextWeek("Sat"));
 
+  //test push to github
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
