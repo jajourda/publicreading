@@ -22,25 +22,18 @@ export default function Home() {
       return item;
     }
   });
-  console.log("iw am readings:");
-  console.log(listReadings);
   //todo- capturetoday and store in the variable `today`
   const today = new Date();
   //const today = new Date("7/10/2021");
   //todo -run conditional if statement
   let upcomingSaturday;
 
-  console.log("i am TODAY**********");
-  console.log(today);
   if (!isSaturday(today)) {
-    //> this code should only run on 6 days that are not saturday
     upcomingSaturday = listReadings[0];
-    console.log("i am NOT saturday", upcomingSaturday);
   } else {
     upcomingSaturday = _.filter(publicreading, function (item) {
       return isSameDay(today, new Date(item.start));
     })[0];
-    console.log("i am saturday", upcomingSaturday);
   }
 
   return (
@@ -53,7 +46,7 @@ export default function Home() {
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
         <h1 className="text-6xl font-bold">Public Reading </h1>
         {/* Saturday Card component */}
-        <SaturdayCard item={upcomingSaturday} poop={upcomingSaturday} />
+        <SaturdayCard item={upcomingSaturday} />
         <SaturdayList readings={listReadings} />
       </main>
 
