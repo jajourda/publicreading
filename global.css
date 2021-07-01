@@ -1,8 +1,17 @@
+body {
+  font-family: "Londrina Solid", cursive;
+  color: #444444;
+}
 .material-card {
-  font-family: "Roboto", sans-serif;
   background-color: #fff;
   box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
     0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+}
+.reading-category {
+  color: #3398cc;
+}
+.reading-list-row {
+  border-color: #e6e6e6;
 }
 
 .footer-link {

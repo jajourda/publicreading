@@ -41,6 +41,7 @@ export default function SaturdayList(props: ISaturdayListProps) {
                                       py-1
                                       border-b-2 border-blue-100
                                       cursor-default
+                                      reading-list-row
                                     "
                                         key={item.start.toString() + i}
                                     >

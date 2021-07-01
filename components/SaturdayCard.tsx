@@ -9,7 +9,7 @@ export default function SaturdayCard(props: ISaturdayCardProps) {
     return (
         <div className="flex flex-col items-center justify-center w-full">
             <div className="max-w-sm rounded material-card bg-white">
-                <div className="px-6 py-4">
+                <div className="px-6 py-4 ">
                     <div className="font-bold text-3xl tracking-wide">
                         <h2 className="text-2xl font-bold">
                             {format(new Date(props.item.start), "EEEE MMMM do, yyyy ")}
@@ -22,7 +22,7 @@ export default function SaturdayCard(props: ISaturdayCardProps) {
                 />
                 <div className="px-6 py-4">
                     <div className="font-bold text-3xl tracking-wide">
-                        <small className="text-sm">TORAH:</small>
+                        <small className="text-sm reading-category">TORAH:</small>
                         <br />
                         {props.item.torahPassage}
                     </div>
@@ -30,7 +30,7 @@ export default function SaturdayCard(props: ISaturdayCardProps) {
                         {props.item.title}
                     </div>
                     <div className="font-bold text-3xl tracking-wide">
-                        <small className="text-sm">GOSPEL:</small>
+                        <small className="text-sm reading-category">GOSPEL:</small>
                         <br />
                         {props.item.gospelPassage}
                     </div>
