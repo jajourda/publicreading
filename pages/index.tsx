@@ -11,7 +11,7 @@ import SaturdayList from "../components/SaturdayList";
 export interface IHomeProps {
 }
 
-export default function Home(props: IHomeProps) {
+export default function Home() {
 
   //logic
   //todo - find and store only present and future dates in readings
