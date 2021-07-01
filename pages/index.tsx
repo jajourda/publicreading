@@ -17,7 +17,6 @@ export default function Home() {
   //todo - find and store only present and future dates in readings
   const listReadings = _.filter(publicreading, function (item) {
     let rDate = isFuture(new Date(item.start));
-    console.log("rDate", rDate);
     if (rDate === true) {
       return item;
     }
