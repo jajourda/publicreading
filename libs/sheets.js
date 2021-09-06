@@ -1,5 +1,5 @@
 import { google } from "googleapis";
-export async function getEmojiList() {
+export async function getReadingsList() {
   try {
     const target = ["https://www.googleapis.com/auth/spreadsheets.readonly"];
     const jwt = new google.auth.JWT(
@@ -19,15 +19,14 @@ export async function getEmojiList() {
     if (rows.length) {
       return rows.map((row) => ({
         start: row[0],
-        torahTitle: row[1],
+        title: row[1],
         torahPassage: row[2],
         torahVerseTotal: row[3],
         gospelPassage: row[4],
-        gospelVerseTotal: row[5],
+        gospelVerseNumber: row[5],
       }));
     }
   } catch (err) {
-    console.log("ERRORS!!!!!!!");
     console.log(err);
   }
   return [];

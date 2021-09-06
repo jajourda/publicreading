@@ -3,7 +3,7 @@ import { reading } from "../interfaces/reading";
 import { format } from "date-fns";
 
 export interface ISaturdayListProps {
-    readings: reading[];
+    readings: any;
 }
 
 export default function SaturdayList(props: ISaturdayListProps) {

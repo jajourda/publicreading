@@ -1,6 +1,6 @@
 import Head from "next/head";
 import * as React from 'react';
-let publicreading = require("../publicreading.json");
+// let publicreading = require("../publicreading.json");
 import _ from 'lodash'
 import { isSaturday, isFuture } from "date-fns";
 import { isSameDay } from "date-fns";
@@ -8,7 +8,7 @@ import { reading } from '../interfaces/reading';
 import SaturdayCard from "../components/SaturdayCard";
 import SaturdayList from "../components/SaturdayList";
 
-import { getEmojiList } from '../libs/sheets';
+import { getReadingsList } from '../libs/sheets';
 
 export interface IHomeProps {
   readings: reading[];
@@ -19,6 +19,8 @@ export default function Home(props: IHomeProps) {
   //logic
   //todo - find and store only present and future dates in readings
   const listReadings = _.filter(props.readings, function (item) {
+    // console.log('i am item:')
+    // console.log(item)
     let rDate = isFuture(new Date(item.start));
     if (rDate === true) {
       return item;
@@ -33,12 +35,14 @@ export default function Home(props: IHomeProps) {
   if (!isSaturday(today)) {
     upcomingSaturday = listReadings[0];
   } else {
-    upcomingSaturday = _.filter(publicreading, function (item) {
+    upcomingSaturday = _.filter(props.readings, function (item) {
       return isSameDay(today, new Date(item.start));
     })[0];
   }
 
 
+  // console.log('i am listReadings@@@@@@@@@@')
+  // console.log(listReadings)
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
@@ -77,7 +81,14 @@ export default function Home(props: IHomeProps) {
 }
 
 export async function getStaticProps() {
-  const readings = await getEmojiList();
+  const readings = await getReadingsList();
+  // console.log('i am readings!!!!!!')
+  // console.log(readings)
+  // const jsonReadings = readings.map((item, i) => {
+  //   console.log('i am a reading')
+  //   console.log(JSON.stringify(item))
+  // })
+  // const jsonReadings = _.map(readings, (item)=>{JSON.stringify(item)});
   return {
     props: {
       readings: readings.slice(1, readings.length), // remove sheet header

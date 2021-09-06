@@ -2,7 +2,7 @@ import * as React from 'react';
 import { format } from "date-fns";
 import { reading } from '../interfaces/reading';
 export interface ISaturdayCardProps {
-    item: reading;
+    item: any;
 }
 
 export default function SaturdayCard(props: ISaturdayCardProps) {
