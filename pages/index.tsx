@@ -76,11 +76,8 @@ export default function Home(props: IHomeProps) {
 
 }
 
-export async function getStaticProps(context: object) {
+export async function getStaticProps() {
   const readings = await getEmojiList();
-  console.log('i am the readings...')
-  console.log(readings)
-  console.log(context)
   return {
     props: {
       readings: readings.slice(1, readings.length), // remove sheet header
