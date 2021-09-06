@@ -30,7 +30,7 @@ export default function SaturdayList(props: ISaturdayListProps) {
                 >
                     <table className="w-full">
                         <tbody className="">
-                            {props.readings.map((item, i) => {
+                            {props.readings.map((item: any, i: any) => {
                                 return (
                                     <tr
                                         className="
