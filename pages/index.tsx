@@ -8,6 +8,8 @@ import { isSameDay } from "date-fns";
 import SaturdayCard from "../components/SaturdayCard";
 import SaturdayList from "../components/SaturdayList";
 
+import { getEmojiList } from '../libs/sheets';
+
 export interface IHomeProps {
 }
 
@@ -43,6 +45,7 @@ export default function Home() {
       </Head>
 
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
+        {/* <h1 className="text-6xl font-bold">{props.emojis[0].title} </h1> */}
         <h1 className="text-6xl font-bold">Public Reading </h1>
         <br />
         {/* Saturday Card component */}
@@ -68,6 +71,19 @@ export default function Home() {
     </div>
   );
 
+}
+
+export async function getStaticProps(context: object) {
+  const emojis = await getEmojiList();
+  console.log('i am testing here...')
+  console.log(emojis)
+  console.log(context)
+  return {
+    props: {
+      emojis: emojis.slice(1, emojis.length), // remove sheet header
+    },
+    revalidate: 1, // In seconds
+  };
 }
 
 

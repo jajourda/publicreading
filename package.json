@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "date-fns": "^2.22.1",
+    "googleapis": "^85.0.0",
     "lodash": "^4.17.21",
     "next": "latest",
     "react": "^17.0.1",
