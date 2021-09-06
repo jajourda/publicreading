@@ -12,13 +12,13 @@ export async function getEmojiList() {
     const sheets = google.sheets({ version: "v4", auth: jwt });
     const response = await sheets.spreadsheets.values.get({
       spreadsheetId: process.env.SPREADSHEET_ID,
-      range: process.env.SPREADSHEET_NAME, // sheet name
+      range: process.env.SHEET_NAME, // sheet name
     });
 
     const rows = response.data.values;
     if (rows.length) {
       return rows.map((row) => ({
-        date: row[0],
+        start: row[0],
         torahTitle: row[1],
         torahPassage: row[2],
         torahVerseTotal: row[3],

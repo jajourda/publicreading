@@ -6,6 +6,7 @@ export interface ISaturdayCardProps {
 }
 
 export default function SaturdayCard(props: ISaturdayCardProps) {
+
     return (
         <div className="flex flex-col items-center justify-center w-full">
             <div className="max-w-sm rounded material-card bg-white">

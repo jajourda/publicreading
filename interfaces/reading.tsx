@@ -1,6 +1,6 @@
 export interface reading {
     gospelPassage: string;
-    gospelVerseNumber: number;
+    gospelVerseNumber: string;
     start: string;
     title: string;
     torahPassage: string;

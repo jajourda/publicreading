@@ -4,20 +4,21 @@ let publicreading = require("../publicreading.json");
 import _ from 'lodash'
 import { isSaturday, isFuture } from "date-fns";
 import { isSameDay } from "date-fns";
-
+import { reading } from '../interfaces/reading';
 import SaturdayCard from "../components/SaturdayCard";
 import SaturdayList from "../components/SaturdayList";
 
 import { getEmojiList } from '../libs/sheets';
 
 export interface IHomeProps {
+  readings: reading[];
 }
 
-export default function Home() {
+export default function Home(props: IHomeProps) {
 
   //logic
   //todo - find and store only present and future dates in readings
-  const listReadings = _.filter(publicreading, function (item) {
+  const listReadings = _.filter(props.readings, function (item) {
     let rDate = isFuture(new Date(item.start));
     if (rDate === true) {
       return item;
@@ -37,6 +38,8 @@ export default function Home() {
     })[0];
   }
 
+
+
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
@@ -45,7 +48,7 @@ export default function Home() {
       </Head>
 
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
-        {/* <h1 className="text-6xl font-bold">{props.emojis[0].title} </h1> */}
+        {/* <h1 className="text-6xl font-bold">test/{readings[0].torahTitle} </h1> */}
         <h1 className="text-6xl font-bold">Public Reading </h1>
         <br />
         {/* Saturday Card component */}
@@ -74,13 +77,13 @@ export default function Home() {
 }
 
 export async function getStaticProps(context: object) {
-  const emojis = await getEmojiList();
-  console.log('i am testing here...')
-  console.log(emojis)
+  const readings = await getEmojiList();
+  console.log('i am the readings...')
+  console.log(readings)
   console.log(context)
   return {
     props: {
-      emojis: emojis.slice(1, emojis.length), // remove sheet header
+      readings: readings.slice(1, readings.length), // remove sheet header
     },
     revalidate: 1, // In seconds
   };
